@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C446E2C3-57D5-4012-AC96-5378BACAD8BC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Controllers/GameController.cs" Line="24" Column="26" />
+      <File FileName="Services/GameService.cs" Line="12" Column="43" />
+      <File FileName="Models/GameSessions.cs" Line="24" Column="1" />
+      <File FileName="Services/IGameService.cs" Line="4" Column="31" />
+      <File FileName="Program.cs" Line="19" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tictactoe-back" expanded="True">
+            <Node name="tictactoe-back" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.tictactoe-back PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>

@@ -224,31 +224,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\willi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/wgroc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\Workspace\\Tictactoe\\tictactoe-back\\tictactoe-back.csproj",
+      "projectUniqueName": "/Users/wgroc/Workspace/poc/Tictactoe-flutter-dotnet/tictactoe-back/tictactoe-back.csproj",
       "projectName": "tictactoe-back",
-      "projectPath": "C:\\Users\\willi\\Workspace\\Tictactoe\\tictactoe-back\\tictactoe-back.csproj",
-      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\Workspace\\Tictactoe\\tictactoe-back\\obj\\",
+      "projectPath": "/Users/wgroc/Workspace/poc/Tictactoe-flutter-dotnet/tictactoe-back/tictactoe-back.csproj",
+      "packagesPath": "/Users/wgroc/.nuget/packages/",
+      "outputPath": "/Users/wgroc/Workspace/poc/Tictactoe-flutter-dotnet/tictactoe-back/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/wgroc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -291,7 +285,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
